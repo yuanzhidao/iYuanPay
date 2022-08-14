@@ -10,7 +10,7 @@
             },
             width: '200'
         }" 
-        tag="canvas"
+        tag="img"
     />
     </div>
     </a>
